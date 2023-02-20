@@ -1,0 +1,6 @@
+{
+    "sep": "START",
+    "stringKeys": ["name"],
+    "floatKeys": ["time"],
+    "intKeys": ["other"]
+}
